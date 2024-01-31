@@ -2,6 +2,7 @@
 
 This Spring Boot project is designed to integrate PostgreSQL as the database and Redis for efficient caching operations. The Redis CLI (Command Line Interface) is utilized for cache management and monitoring.
 
+👉 [For more information, you can check out my blog post.](https://ayseozcan.com/2024/01/31/spring-data-redis-cache-redis-cli/)
 ### Requirements
 
 - IDE
